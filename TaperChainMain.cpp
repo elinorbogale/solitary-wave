@@ -1,5 +1,5 @@
-//Adam Sokolow - 1/31/14
-//The newest TaperChain code
+//ORIGINAL CREDITS GRANTED TO: Adam Sokolow - 1/31/14
+//The newest TaperChain code 08/2025
 //Parse input from specified file (drag and drop ok)
 //Tthen setup simulation
 //Then run sim.
